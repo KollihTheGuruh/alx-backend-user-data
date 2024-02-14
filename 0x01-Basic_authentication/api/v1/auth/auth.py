@@ -40,4 +40,3 @@ class Auth:
         """ curent_user method
         """
         return None
-
